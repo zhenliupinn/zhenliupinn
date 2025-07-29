@@ -1,16 +1,16 @@
-## Hi there 👋
+# zhenliupinn
 
-<!--
-**zhenliupinn/zhenliupinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhenliupinn** is an open-source platform for pre-stack AVO inversion, building a comprehensive family of physics-informed neural network (PINN) solutions. This project aims to drive next-generation geophysical inversion and reservoir characterization by integrating physics, AI, and Bayesian uncertainty modeling.
 
-Here are some ideas to get you started:
+## Key Architectures Included
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **CNN-PINN:** Classic convolutional PINN framework.
+- **CNN-BiLSTM-PINN:** Sequence modeling enhanced PINN.
+- **iPINN:** PINN with learnable wavelet frequency (implicit PINN).
+- **BPINN:** Bayesian PINN for uncertainty quantification.
+- **iBPINN:** Frequency-adaptive Bayesian PINN.
+- **BPI‑ViT:** Bayesian Physics-Informed Vision Transformer — the flagship model, enabling structure-level uncertainty quantification and attention-based interpretability.
+- **Future Extensions:** More advanced and innovative PINN-based methods are under development.
+
+> This repository is under active development.  
+> **Stay tuned — BPI‑ViT and the full PINN ecosystem will be released soon!**
