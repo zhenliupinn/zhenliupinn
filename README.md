@@ -14,3 +14,5 @@
 
 > This repository is under active development.  
 > **Stay tuned — BPI‑ViT and the full PINN ecosystem will be released soon!**
+
+Contact: zhenliu.erasmus@gmail.com
