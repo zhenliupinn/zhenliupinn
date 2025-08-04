@@ -9,7 +9,7 @@
 - **iPINN:** PINN with learnable wavelet frequency (implicit PINN).
 - **BPINN:** Bayesian PINN for uncertainty quantification.
 - **iBPINN:** Frequency-adaptive Bayesian PINN.
-- **BPI‑ViT:** Bayesian Physics-Informed Vision Transformer — the flagship model, enabling structure-level uncertainty quantification and attention-based interpretability.
+- **BPI‑ViT:** Bayesian Physics-Informed Vision Transformer — the flagship model, enabling structure-level uncertainty quantification and attention-based interpretability (https://doi.org/10.21203/rs.3.rs-7097139/v2).
 - **Future Extensions:** More advanced and innovative PINN-based methods are under development.
 
 > This repository is under active development.  
